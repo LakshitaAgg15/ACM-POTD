@@ -1,3 +1,4 @@
+
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
@@ -16,3 +17,5 @@ public:
         
 
 };
+
+<img width="1920" height="1020" alt="Screenshot 2026-03-22 123631" src="https://github.com/user-attachments/assets/ccc83569-2d89-40cf-a672-8846d9a73407" />
